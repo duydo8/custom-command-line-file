@@ -4,6 +4,7 @@ import (
 	"custom-command-line/model"
 	"encoding/json"
 	"fmt"
+	_ "github.com/abiosoft/ishell/v2"
 	"io/ioutil"
 )
 
